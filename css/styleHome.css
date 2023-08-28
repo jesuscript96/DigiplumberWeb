@@ -152,6 +152,9 @@ button:hover {
     }
 } */
 
+#steps {
+    padding-left: 5%;
+}
 
 #paso1 {
     display: flex;
@@ -220,12 +223,14 @@ p {
     font-size: 28px;
     font-weight: 400;
     padding-left: 20%;
+    padding-right: 20%;
     margin-top: 10%;
     margin-bottom: 10%;
 }
 
 .p4 {
     padding-left: 20%;
+    padding-right: 20%;
 }
 
 .textaco {
